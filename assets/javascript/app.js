@@ -10,6 +10,19 @@ for ( i = 0; i < questions.length; i++) {
     return questions[i];
 };
 
+
+
+
+
+//*********** truefalse?? multiple choice?? *************** */
+
+
+
 //************* user score function ******************/
 
 //*********** timer function (or whatever timer ends up using) ********/
+
+
+
+
+//*************javascript multiple choice. one tick only  *************/
