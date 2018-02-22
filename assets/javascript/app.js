@@ -2,7 +2,7 @@
 
 // ************ Questions array and booleans*************/
 
-questions = ["blablalba", "blablabla",];
+
 
 //************* for loop or while loop to go through questions*****/
 
@@ -26,3 +26,4 @@ for ( i = 0; i < questions.length; i++) {
 
 
 //*************javascript multiple choice. one tick only  *************/
+//************** maybe have one function per question with one radio button set to true and others set to false **************/
