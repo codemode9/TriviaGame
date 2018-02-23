@@ -1,3 +1,5 @@
+var timeoutID = window.setTimeout(fun, [10000]);
+
 function fun()
   {         
 var amountYep = 0;          
