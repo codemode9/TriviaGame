@@ -3,6 +3,13 @@ var timeoutID = window.setTimeout(fun, [50000]);
 var n = 50;
 setTimeout(countDown,50000);
 
+function timedText() {
+    var q = document.getElementById("txt");
+    for (t=50; t<=50; t--) {
+    setTimeout(function(){ q.value=t + " seconds" }, t * 1000);
+    console.log(timedText());
+}};
+
 function countDown(){
    n--;
    if(n > 0){
